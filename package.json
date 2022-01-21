@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "axios": "^0.25.0",
+    "discord.js": "^13.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --trace-deprecation index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
